@@ -1,0 +1,16 @@
+{
+	"name": "bobstermyang/replace.io",
+	"description": "PHP search tool for databases. Mostly for migrating WordPress Sites.",
+	"license": "GPL-3.0",
+	"homepage": "https://github.com/bobstermyang/replace.io",
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"support": {
+		"issues": "https://github.com/bobstermyang/replace.io/issues"
+	},
+	"bin": [ "srdb.cli.php" ],
+	"autoload": {
+		"files": [ "srdb.class.php" ]
+	}
+}

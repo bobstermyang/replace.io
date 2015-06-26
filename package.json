@@ -1,0 +1,21 @@
+{
+  "name": "replace.io",
+  "version": "1.0.0",
+  "description": "PHP search tool for databases. Mostly for migrating WordPress Sites.",
+  "main": "srdb.cli.php",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bobstermyang/replace.io.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bobstermyang/replace.io/issues"
+  }
+}
